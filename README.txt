@@ -14,7 +14,7 @@ in config/config.lua , at line 70, there is the function bridge between cmd and 
 --> until now I've set an animation list (first 100 animations from https://alexguirre.github.io/animations-list/ and show up animation name on screen and cmd) and get into a car if the PlayerPed is inside one.
 
 
-===POTUGUÊS====================================================================================================
+===PORTUGUÊS====================================================================================================
 Projeto criado para ser uma ferramenta no desenvolvimento de scipts de animação, porém há uma potencialidade em auxiliar em outros scripts que precise de interação entre dois ou mais peds
 
 para criar a assistente
